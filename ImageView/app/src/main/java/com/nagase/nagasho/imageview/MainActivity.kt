@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         var url = "https://life-is-tech.com/materials/images/logo-square.png"
         val imageView = findViewById<ImageView>(R.id.imageView)
-        imageView.setImageResource(R.drawable.logo_image)
 
         imageView.load(url)
     }
