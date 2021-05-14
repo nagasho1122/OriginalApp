@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var url = "https://life-is-tech.com/materials/images/logo-square.png"
+        val url = "https://life-is-tech.com/materials/images/logo-square.png"
         val imageView = findViewById<ImageView>(R.id.imageView)
 
         imageView.load(url)
