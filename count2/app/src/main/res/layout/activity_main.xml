@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#EC0909"
         android:fontFamily="sans-serif-black"
-        android:text="ナベアツからの挑戦状"
+        android:text="ナ○アツからの挑戦状"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
